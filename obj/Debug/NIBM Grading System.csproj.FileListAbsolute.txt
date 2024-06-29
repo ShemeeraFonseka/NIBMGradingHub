@@ -1,0 +1,259 @@
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\MetroFramework.Design.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\MetroFramework.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\EnvDTE.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\stdole.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.About_Us.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Choose_Task.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Courses.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ExamUnit_Login.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Lecturers.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Login.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Manage_Marks.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.New_Login_Details.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Results.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Students.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Student_Login.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Subjects.resources
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\NIBM Grading System.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\NIBM Grading System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\NIBM Grading System.csproj.CopyComplete
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Acer\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\NIBM Grading System.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.About_Us.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Choose_Task.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Courses.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.ExamUnit_Login.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Lecturers.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Login.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Manage_Marks.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.MarkSheet.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.New_Login_Details.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Results.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Students.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Student_Login.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Subjects.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\NIBM Grading System.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\NIBM Grading System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\MetroFramework.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\EnvDTE.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\stdole.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\NIBM Grading System.csproj.CopyComplete
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Delete_Details.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Exam_Unit.resources
+C:\Users\Acer\source\repos\NIBM Grading System\obj\Debug\WindowsFormsApp3.Update_Details.resources
+D:\DCSD\NIBM Grading System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DCSD\NIBM Grading System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DCSD\NIBM Grading System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DCSD\NIBM Grading System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DCSD\NIBM Grading System\bin\Debug\WindowsFormsApp3.exe.config
+D:\DCSD\NIBM Grading System\bin\Debug\WindowsFormsApp3.exe
+D:\DCSD\NIBM Grading System\bin\Debug\WindowsFormsApp3.pdb
+D:\DCSD\NIBM Grading System\bin\Debug\MetroFramework.Design.dll
+D:\DCSD\NIBM Grading System\bin\Debug\MetroFramework.dll
+D:\DCSD\NIBM Grading System\bin\Debug\MetroFramework.Fonts.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DCSD\NIBM Grading System\bin\Debug\EnvDTE.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DCSD\NIBM Grading System\bin\Debug\stdole.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DCSD\NIBM Grading System\bin\Debug\Microsoft.MSXML.dll
+D:\DCSD\NIBM Grading System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DCSD\NIBM Grading System\obj\Debug\NIBM Grading System.csproj.AssemblyReference.cache
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.About_Us.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Choose_Task.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Courses.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Delete_Details.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Exam_Unit.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.ExamUnit_Login.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Lecturers.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Login.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Manage_Marks.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.MarkSheet.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.New_Login_Details.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Results.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Students.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Student_Login.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Subjects.resources
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.Update_Details.resources
+D:\DCSD\NIBM Grading System\obj\Debug\NIBM Grading System.csproj.GenerateResource.cache
+D:\DCSD\NIBM Grading System\obj\Debug\NIBM Grading System.csproj.CoreCompileInputs.cache
+D:\DCSD\NIBM Grading System\obj\Debug\NIBM Gra.C01A0B26.Up2Date
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.exe
+D:\DCSD\NIBM Grading System\obj\Debug\WindowsFormsApp3.pdb
